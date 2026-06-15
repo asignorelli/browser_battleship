@@ -1,0 +1,12 @@
+---
+:id: 392914585
+:submitters:
+- :name: Alyssa Signorelli
+  :email: ags180@pitt.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2026-02-25 21:38:39.938776000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2026-02-25 13:38:39.938776000 Z
+:status: processed
+:score: 96.0
